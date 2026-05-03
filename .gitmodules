@@ -1,12 +1,12 @@
 [submodule "mono"]
 	path = mono
-	url = git@git.rwth-aachen.de:learntech-lufgi9/ss24/practical-lab/mono.git
+	url = git@github.com:shivamgif/cp-mono.git
 [submodule "anti-plagiarism-project"]
 	path = anti-plagiarism-project
-	url = git@git.rwth-aachen.de:learntech-lufgi9/ss24/practical-lab/anti-plagiarism-project.git
+	url = git@github.com:shivamgif/cp-main.git
 [submodule "anti-plagiarism-database-flyway"]
 	path = anti-plagiarism-database-flyway
-	url = git@git.rwth-aachen.de:learntech-lufgi9/ss24/practical-lab/anti-plagiarism-database-flyway.git
+	url = git@github.com:shivamgif/cp-database-flyway.git
 [submodule "engine-switcher"]
 	path = engine-switcher
-	url = git@git.rwth-aachen.de:learntech-lufgi9/ss24/practical-lab/engine-switcher.git
+	url = git@github.com:shivamgif/cp-engine-switcher.git
